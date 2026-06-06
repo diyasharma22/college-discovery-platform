@@ -1,5 +1,11 @@
 # 🎓 College Discovery Platform
 
+![Next.js](https://img.shields.io/badge/Next.js-15-black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Blue)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791)
+![Vercel](https://img.shields.io/badge/Deploy-Vercel-black)
+
 A full-stack web application that helps students discover, compare, and explore colleges based on ratings, fees, placements, and location.
 
 ## 🚀 Live Demo
