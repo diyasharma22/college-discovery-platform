@@ -152,16 +152,27 @@ Example College Fields:
 
 ## 📸 Screenshots
 
-### Home Page
-- College listing
-- Search functionality
-- Navigation buttons
+### 🏠 Home Page
 
-### Compare Page
-- Side-by-side college comparison
+The homepage allows students to browse colleges, search by name or location, and navigate to comparison and prediction tools.
 
-### Predictor Page
-- College recommendation system
+![Homepage](public/screenshots/homepage.png)
+
+---
+
+### 📊 Compare Colleges
+
+Compare multiple colleges side-by-side based on fees, ratings, placements, and other important factors.
+
+![Compare Page](public/screenshots/compare-page.png)
+
+---
+
+### 🎯 College Predictor
+
+A simple predictor tool that helps students find suitable colleges based on their inputs.
+
+![Predictor Page](public/screenshots/predictor-page.png)
 
 ---
 
